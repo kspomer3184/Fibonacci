@@ -1,3 +1,8 @@
+//Kyle Spomer
+//U0000003184
+//Submitted 11-12-17
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>
